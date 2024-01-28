@@ -1,0 +1,88 @@
+[
+  {
+    "groceries": [
+      {
+        "date": "04/16",
+        "description": "COSTCO WHSE #0775        POWAY        CA",
+        "amount": "-60.31"
+      },
+      {
+        "date": "04/02",
+        "description": "COSTCO WHSE #0775        POWAY        CA",
+        "amount": "198.76"
+      },
+      {
+        "date": "04/09",
+        "description": "MIRAMAR CASH & CARRY     SAN DIEGO    CA",
+        "amount": "69.68"
+      },
+      {
+        "date": "04/16",
+        "description": "COSTCO WHSE #0775        POWAY        CA",
+        "amount": "28.96"
+      }
+    ],
+    "misc": [
+      {
+        "date": "03/28",
+        "description": "NAYAX AIR 2              HUNT VALLEY  MD",
+        "amount": "1.25"
+      }
+    ],
+    "home_improvement": [
+      {
+        "date": "04/03",
+        "description": "IKEA SAN DIEGO REST      SAN DIEGO    CA",
+        "amount": "3.77"
+      },
+      {
+        "date": "04/03",
+        "description": "LOWES #01013*            SAN DIEGO    CA",
+        "amount": "49.91"
+      }
+    ],
+    "restaurant": [
+      {
+        "date": "04/05",
+        "description": "TST* Paradise Biryani - SSan Diego    CA",
+        "amount": "43.02"
+      }
+    ],
+    "gas": [
+      {
+        "date": "04/07",
+        "description": "COSTCO GAS #0452         SAN DIEGO    CA",
+        "amount": "56.13"
+      }
+    ]
+  },
+  {
+    "home_improvement": [
+      {
+        "date": "04/08",
+        "description": "SEARSPARTSDIRECT.COM     800-366-7278 TX",
+        "amount": "-9.99"
+      },
+      {
+        "date": "04/08",
+        "description": "SEARSPARTSDIRECT.COM     800-366-7278 TX",
+        "amount": "-39.99"
+      },
+      {
+        "date": "04/08",
+        "description": "SEARSPARTSDIRECT.COM     800-366-7278 TX",
+        "amount": "-0.63"
+      },
+      {
+        "date": "03/21",
+        "description": "SEARSPARTSDIRECT.COM     800-366-7278 TX",
+        "amount": "50.61"
+      },
+      {
+        "date": "03/21",
+        "description": "BB-BOSH T                IRVINE       CA",
+        "amount": "66.58"
+      }
+    ]
+  }
+]
